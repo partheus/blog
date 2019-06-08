@@ -3,7 +3,7 @@ module.exports = {
     title: `Blog`,
     author: `Parth Shiralkar`,
     description: `My personal blog site.`,
-    // siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://parth.ninja/blog/`,
     social: {
       twitter: `parthshiralkar`,
     },
@@ -63,7 +63,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/p.png`,
       },
     },
     `gatsby-plugin-offline`,
