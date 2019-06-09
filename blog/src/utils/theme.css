@@ -1,0 +1,43 @@
+html{
+    background-color: #091c2b;
+}
+
+h1{
+    color: #209cb4;
+}
+
+h3{
+    color: #209cb4 !important;
+}
+
+h3:hover{
+	color: #e7bf6f;
+	transform: scale(1.01);
+	transition: 0.05s;
+}
+
+
+a{
+    color: #9ff9ff;
+}
+
+a:hover{
+	color: #e7bf6f;
+	transform: scale(1.02);
+	transition: 0.05s;
+}
+
+
+
+p{
+    color: #209cb4;
+}
+
+body{
+    color: #209cb4;
+    
+}
+
+small{
+    color: azure;
+}
