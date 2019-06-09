@@ -1,2 +1,1 @@
-# blog
-Blog site
+Made and deployed using gatsby and gh-pages
