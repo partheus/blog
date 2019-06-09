@@ -3,7 +3,7 @@ html{
 }
 
 h1{
-    color: #209cb4;
+    color: #42bbd3;
 }
 
 h3{
@@ -12,10 +12,9 @@ h3{
 
 h3:hover{
 	color: #e7bf6f;
-	transform: scale(1.01);
+	transform: scale(1.015);
 	transition: 0.05s;
 }
-
 
 a{
     color: #9ff9ff;
@@ -30,7 +29,12 @@ a:hover{
 
 
 p{
-    color: #209cb4;
+    color: #49bfd6;
+}
+
+hr{
+    color: #9ff9ff;
+    background-color: #9ff9ff;
 }
 
 body{
