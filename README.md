@@ -6,5 +6,6 @@ Made and deployed using gatsby and gh-pages
 3. Change contents of index.md, add date
 4. In the blog folder, run:
             "gatsby build"
+            "npm run deploy"
 5. git -push origin
 Pull origin first if it doesn't work
