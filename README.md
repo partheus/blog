@@ -8,3 +8,4 @@ Made and deployed using gatsby and gh-pages
             "gatsby build"
             "gatsby serve"
 5. git -push origin
+Pull origin first if it doesn't work
