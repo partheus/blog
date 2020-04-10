@@ -8,5 +8,6 @@ Made and deployed using gatsby and gh-pages
 4. Change contents of index.md, add date
 5. In the blog folder, run:
             "gatsby serve" to see demo site //optional
+            
             "npm run deploy"
 6. git pull and then push origin
