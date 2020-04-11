@@ -1,6 +1,8 @@
 ---
 title: Don't shoot the messenger
 date: "2020-04-10"
+tags: ["writing", "practice"]
+description: Writing prompt by <a href="https://twitter.com/gabbywhy" target=_blank>@gabbywhy</a>
 ---
 People who claim that Tokyo is a cool place haven't actually had to run from a dozen rabid dogs in the middle of the night. My job brings with it the privilege of the rabid dog chase every other month or so. Become a spy, they said. You'll get cool guns and stuff, they said. Well, I'm getting something else too: pissed off.
 
@@ -71,9 +73,9 @@ I feel my consciousness slipping. Surely there has to be a way to avoid this out
 For an interdimensional device, the hopper is a strange appliance. I type out an email message to the only person I trust, with my real name in the message so I know it's me. I spend the last ounce of energy I have left to hit <i>send</i>, and then I let go, taking solace in the fact that I'll definitely get the message in time. As my eyes close for what seems like the last time, I let my mind take control from the lizard brain. The message should reach me before I enter the office, and I won't enter, and I'll manage to save Dave, and everything will be fine...
 
 
-<b>Writing prompt by <a href="https://twitter.com/gabbywhy" target=_blank>@gabbywhy</a></b>
+-- 
 
-
+Writing prompt by <a href="https://twitter.com/gabbywhy" target=_blank>@gabbywhy</a>
 
 
 

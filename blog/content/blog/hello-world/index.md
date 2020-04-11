@@ -1,6 +1,8 @@
 ---
 title: Hello World
-date: "2019-06-08"
+date: "2019-06-01"
+tags: ["writing", "practice"]
+description: Some dummy thicc text from <a href="https://hipsum.co/" target=_blank>https://hipsum.co/</a>
 ---
 
 Lorem ipsum dolor amet copper mug helvetica palo santo, brunch cornhole tacos DIY deep v kickstarter celiac butcher readymade. Schlitz literally waistcoat, sartorial keffiyeh plaid cold-pressed shaman. Pug leggings squid celiac, live-edge viral kale chips snackwave enamel pin hoodie poutine neutra. Food truck brooklyn paleo put a bird on it whatever biodiesel. Pour-over air plant vaporware man bun.

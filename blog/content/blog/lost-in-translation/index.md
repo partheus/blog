@@ -1,6 +1,8 @@
 ---
 title: Lost in Translation - An affair with the feels
 date: "2019-12-19"
+tags: ["film", "review"]
+description: Movie review on a nice night
 ---
 
 I watched Lost in Translation (2003) for the first time ever today, and I really liked it. The plot is that two Americans meet in an entirely unfamiliar setting in Tokyo, Japan, and find meaning in something strangely peaceful. Both are at different stages of their lives, dealing with their own personal crises, but somehow manage to find solace in each other's presence. Spoilers ahead.

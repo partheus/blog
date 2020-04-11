@@ -1,6 +1,8 @@
 ---
 title: Layover Woes
 date: "2019-06-30"
+tags: ["writing", "travel"]
+description: Some existential jetlag
 ---
 
 Heathrow International Airport, London, has been a friendly stranger to me for the 3-odd hours I have spent with it. As the title suggests, I have an 8-hour layover here. And then an 8-hour flight. And then an 8-hour sleep regime in my own bed.
