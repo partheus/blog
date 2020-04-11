@@ -2,7 +2,7 @@
 title: Voices from yonder
 date: "2020-04-11"
 tags: ["writing", "practice"]
-description: 20 minute speedrun
+description: 30-minute speedrun
 ---
 Ever since her little doll had gone missing, Emma Whelker had become increasingly and increasingly morose. Not being able to play with a toy for less than a day held a far deeper significance for twelve-year-old Emma than her parents could fathom.
 
@@ -42,4 +42,4 @@ Emma's eyes widened in glee. "Oh, joy! Zelda!"
 
 The lake churned, a slow and steady wave that started in the middle. The wind was suddenly strong... too strong.
 
-"Yes, Emma," said the voice. <i>Voices...</i> Emma glanced up at the sky, her face locked in a wide grin. There was a thunder rolling in. Both her feet touched the lake, and she was completely within its boundaries. "We'll finally be able to play!" the voices rose in a sharp crescendo, and there was a loud thunderclap, the loudest you could imagine, and a burst of lightning lit the entire sky up, and for a brief moment one could have seen the entire countryside, and its lush meadows, and the strange lake down yonder, and the silhouette of a little girl reaching out for something dark up ahead, and then the moment passed, swift, like a photo flash, and then lake was silent again.
+"Yes, Emma," said the voice. <i>Voices...</i> Emma glanced up at the sky, her face locked in a wide grin. There was a thunder cloud rolling in. Even as her hair was whipped around by the howling wind, both her feet touched the lake, and she was completely within its boundaries. "We'll finally be able to play!" the voices rose in a sharp crescendo, and there was a loud thunderclap, the loudest you could imagine, and a burst of lightning lit the entire sky up, and for a brief moment one could have seen the entire countryside, and its lush meadows, and the strange lake down yonder, and the silhouette of a little girl reaching out for something dark up ahead, and then the moment passed, swift, like a photo flash, and then lake was silent again.
