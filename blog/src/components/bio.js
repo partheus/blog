@@ -44,7 +44,7 @@ function Bio() {
                 here
               </a>.
             
-              Or go back to my {` `}<a href={`https://parth.ninja`}>
+              Or go back to my {` `}<a href={`https://partheus.github.io`}>
                 website
               </a>.
             </p>
